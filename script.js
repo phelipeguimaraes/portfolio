@@ -1,1 +1,1 @@
-window.alert('Seja bem - vindo ao meu portfólio');
+window.alert("Seja bem - vindo ao meu portf\xF3lio");
