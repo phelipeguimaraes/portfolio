@@ -1,0 +1,1 @@
+window.alert('Seja bem - vindo ao meu portfólio');
